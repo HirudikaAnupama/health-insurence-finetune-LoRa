@@ -1,0 +1,320 @@
+Sample 1:
+fine_tuned: ROUGE-L = 0.2063
+base_model: ROUGE-L = 0.1650
+gpt4omini: ROUGE-L = 0.2294
+
+Sample 2:
+fine_tuned: ROUGE-L = 0.1830
+base_model: ROUGE-L = 0.1571
+gpt4omini: ROUGE-L = 0.1295
+
+Sample 3:
+fine_tuned: ROUGE-L = 0.2524
+base_model: ROUGE-L = 0.2647
+gpt4omini: ROUGE-L = 0.2137
+
+Sample 4:
+fine_tuned: ROUGE-L = 0.1856
+base_model: ROUGE-L = 0.2029
+gpt4omini: ROUGE-L = 0.0814
+
+Sample 5:
+fine_tuned: ROUGE-L = 0.2095
+base_model: ROUGE-L = 0.1928
+gpt4omini: ROUGE-L = 0.0949
+
+Sample 6:
+fine_tuned: ROUGE-L = 0.2286
+base_model: ROUGE-L = 0.1923
+gpt4omini: ROUGE-L = 0.1918
+
+Sample 7:
+fine_tuned: ROUGE-L = 0.1748
+base_model: ROUGE-L = 0.3636
+gpt4omini: ROUGE-L = 0.1552
+
+Sample 8:
+fine_tuned: ROUGE-L = 0.2059
+base_model: ROUGE-L = 0.1724
+gpt4omini: ROUGE-L = 0.0640
+
+Sample 9:
+fine_tuned: ROUGE-L = 0.3119
+base_model: ROUGE-L = 0.1587
+gpt4omini: ROUGE-L = 0.0843
+
+Sample 10:
+fine_tuned: ROUGE-L = 0.1524
+base_model: ROUGE-L = 0.3291
+gpt4omini: ROUGE-L = 0.2200
+
+Sample 11:
+fine_tuned: ROUGE-L = 0.4691
+base_model: ROUGE-L = 0.2549
+gpt4omini: ROUGE-L = 0.0878
+
+Sample 12:
+fine_tuned: ROUGE-L = 0.3667
+base_model: ROUGE-L = 0.1975
+gpt4omini: ROUGE-L = 0.1594
+
+Sample 13:
+fine_tuned: ROUGE-L = 0.3265
+base_model: ROUGE-L = 0.2321
+gpt4omini: ROUGE-L = 0.1250
+
+Sample 14:
+fine_tuned: ROUGE-L = 0.2373
+base_model: ROUGE-L = 0.3273
+gpt4omini: ROUGE-L = 0.2361
+
+Sample 15:
+fine_tuned: ROUGE-L = 0.1684
+base_model: ROUGE-L = 0.2022
+gpt4omini: ROUGE-L = 0.1327
+
+Sample 16:
+fine_tuned: ROUGE-L = 0.2718
+base_model: ROUGE-L = 0.2951
+gpt4omini: ROUGE-L = 0.1567
+
+Sample 17:
+fine_tuned: ROUGE-L = 0.4595
+base_model: ROUGE-L = 0.2407
+gpt4omini: ROUGE-L = 0.2500
+
+Sample 18:
+fine_tuned: ROUGE-L = 0.2105
+base_model: ROUGE-L = 0.1250
+gpt4omini: ROUGE-L = 0.1993
+
+Sample 19:
+fine_tuned: ROUGE-L = 0.3273
+base_model: ROUGE-L = 0.1935
+gpt4omini: ROUGE-L = 0.1200
+
+Sample 20:
+fine_tuned: ROUGE-L = 0.2353
+base_model: ROUGE-L = 0.2254
+gpt4omini: ROUGE-L = 0.1478
+
+Sample 21:
+fine_tuned: ROUGE-L = 0.1985
+base_model: ROUGE-L = 0.1446
+gpt4omini: ROUGE-L = 0.1675
+
+Sample 22:
+fine_tuned: ROUGE-L = 0.3762
+base_model: ROUGE-L = 0.3704
+gpt4omini: ROUGE-L = 0.2055
+
+Sample 23:
+fine_tuned: ROUGE-L = 0.5410
+base_model: ROUGE-L = 0.2740
+gpt4omini: ROUGE-L = 0.1111
+
+Sample 24:
+fine_tuned: ROUGE-L = 0.1455
+base_model: ROUGE-L = 0.1346
+gpt4omini: ROUGE-L = 0.1061
+
+Sample 25:
+fine_tuned: ROUGE-L = 0.1731
+base_model: ROUGE-L = 0.1562
+gpt4omini: ROUGE-L = 0.0815
+
+Sample 26:
+fine_tuned: ROUGE-L = 0.1980
+base_model: ROUGE-L = 0.2462
+gpt4omini: ROUGE-L = 0.1041
+
+Sample 27:
+fine_tuned: ROUGE-L = 0.1481
+base_model: ROUGE-L = 0.2154
+gpt4omini: ROUGE-L = 0.1014
+
+Sample 28:
+fine_tuned: ROUGE-L = 0.1208
+base_model: ROUGE-L = 0.1351
+gpt4omini: ROUGE-L = 0.1493
+
+Sample 29:
+fine_tuned: ROUGE-L = 0.2051
+base_model: ROUGE-L = 0.1867
+gpt4omini: ROUGE-L = 0.1959
+
+Sample 30:
+fine_tuned: ROUGE-L = 0.2593
+base_model: ROUGE-L = 0.1782
+gpt4omini: ROUGE-L = 0.1681
+
+Sample 31:
+fine_tuned: ROUGE-L = 0.2679
+base_model: ROUGE-L = 0.2222
+gpt4omini: ROUGE-L = 0.1474
+
+Sample 32:
+fine_tuned: ROUGE-L = 0.2047
+base_model: ROUGE-L = 0.1905
+gpt4omini: ROUGE-L = 0.2000
+
+Sample 33:
+fine_tuned: ROUGE-L = 0.2815
+base_model: ROUGE-L = 0.1573
+gpt4omini: ROUGE-L = 0.1463
+
+Sample 34:
+fine_tuned: ROUGE-L = 0.2080
+base_model: ROUGE-L = 0.1961
+gpt4omini: ROUGE-L = 0.2000
+
+Sample 35:
+fine_tuned: ROUGE-L = 0.1583
+base_model: ROUGE-L = 0.1364
+gpt4omini: ROUGE-L = 0.1049
+
+Sample 36:
+fine_tuned: ROUGE-L = 0.1711
+base_model: ROUGE-L = 0.1958
+gpt4omini: ROUGE-L = 0.2105
+
+Sample 37:
+fine_tuned: ROUGE-L = 0.0717
+base_model: ROUGE-L = 0.0634
+gpt4omini: ROUGE-L = 0.1188
+
+Sample 38:
+fine_tuned: ROUGE-L = 0.1037
+base_model: ROUGE-L = 0.0805
+gpt4omini: ROUGE-L = 0.1546
+
+Sample 39:
+fine_tuned: ROUGE-L = 0.1910
+base_model: ROUGE-L = 0.2012
+gpt4omini: ROUGE-L = 0.1436
+
+Sample 40:
+fine_tuned: ROUGE-L = 0.1753
+base_model: ROUGE-L = 0.1342
+gpt4omini: ROUGE-L = 0.1719
+
+Sample 41:
+fine_tuned: ROUGE-L = 0.1195
+base_model: ROUGE-L = 0.0602
+gpt4omini: ROUGE-L = 0.1455
+
+Sample 42:
+fine_tuned: ROUGE-L = 0.1176
+base_model: ROUGE-L = 0.2889
+gpt4omini: ROUGE-L = 0.0909
+
+Sample 43:
+fine_tuned: ROUGE-L = 0.2804
+base_model: ROUGE-L = 0.2571
+gpt4omini: ROUGE-L = 0.1515
+
+Sample 44:
+fine_tuned: ROUGE-L = 0.2720
+base_model: ROUGE-L = 0.1371
+gpt4omini: ROUGE-L = 0.1498
+
+Sample 45:
+fine_tuned: ROUGE-L = 0.1446
+base_model: ROUGE-L = 0.1569
+gpt4omini: ROUGE-L = 0.1106
+
+Sample 46:
+fine_tuned: ROUGE-L = 0.3542
+base_model: ROUGE-L = 0.4783
+gpt4omini: ROUGE-L = 0.2093
+
+Sample 47:
+fine_tuned: ROUGE-L = 0.2000
+base_model: ROUGE-L = 0.1101
+gpt4omini: ROUGE-L = 0.1383
+
+Sample 48:
+fine_tuned: ROUGE-L = 0.1667
+base_model: ROUGE-L = 0.2245
+gpt4omini: ROUGE-L = 0.1573
+
+Sample 49:
+fine_tuned: ROUGE-L = 0.1754
+base_model: ROUGE-L = 0.1606
+gpt4omini: ROUGE-L = 0.1037
+
+Sample 50:
+fine_tuned: ROUGE-L = 0.1484
+base_model: ROUGE-L = 0.1135
+gpt4omini: ROUGE-L = 0.1589
+
+Sample 51:
+fine_tuned: ROUGE-L = 0.1257
+base_model: ROUGE-L = 0.1707
+gpt4omini: ROUGE-L = 0.1391
+
+Sample 52:
+fine_tuned: ROUGE-L = 0.1282
+base_model: ROUGE-L = 0.1857
+gpt4omini: ROUGE-L = 0.1386
+
+Sample 53:
+fine_tuned: ROUGE-L = 0.3091
+base_model: ROUGE-L = 0.3158
+gpt4omini: ROUGE-L = 0.2500
+
+Sample 54:
+fine_tuned: ROUGE-L = 0.2344
+base_model: ROUGE-L = 0.1918
+gpt4omini: ROUGE-L = 0.1910
+
+Sample 55:
+fine_tuned: ROUGE-L = 0.3172
+base_model: ROUGE-L = 0.1910
+gpt4omini: ROUGE-L = 0.1739
+
+Sample 56:
+fine_tuned: ROUGE-L = 0.1752
+base_model: ROUGE-L = 0.2752
+gpt4omini: ROUGE-L = 0.1690
+
+Sample 57:
+fine_tuned: ROUGE-L = 0.2609
+base_model: ROUGE-L = 0.2321
+gpt4omini: ROUGE-L = 0.1709
+
+Sample 58:
+fine_tuned: ROUGE-L = 0.2778
+base_model: ROUGE-L = 0.1735
+gpt4omini: ROUGE-L = 0.1899
+
+Sample 59:
+fine_tuned: ROUGE-L = 0.3125
+base_model: ROUGE-L = 0.1165
+gpt4omini: ROUGE-L = 0.2529
+
+Sample 60:
+fine_tuned: ROUGE-L = 0.1911
+base_model: ROUGE-L = 0.2326
+gpt4omini: ROUGE-L = 0.1808
+
+============================================================
+Fine-tuned > Base Model: 39/60 (65.00%)
+Fine-tuned > GPT-4o-mini: 50/60 (83.33%)
+
+Corpus-level ROUGE Scores:
+fine_tuned:
+  ROUGE-1: 0.3477
+  ROUGE-2: 0.1169
+  ROUGE-L: 0.2282
+
+base_model:
+  ROUGE-1: 0.2919
+  ROUGE-2: 0.0850
+  ROUGE-L: 0.2028
+
+gpt4omini:
+  ROUGE-1: 0.2766
+  ROUGE-2: 0.0667
+  ROUGE-L: 0.1554
+

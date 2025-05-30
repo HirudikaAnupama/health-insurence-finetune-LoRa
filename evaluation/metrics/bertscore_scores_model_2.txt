@@ -1,0 +1,308 @@
+Sample 1:
+fine_tuned: BERTScore F1 = 0.7920
+base_model: BERTScore F1 = 0.8117
+gpt4omini: BERTScore F1 = 0.8079
+
+Sample 2:
+fine_tuned: BERTScore F1 = 0.7518
+base_model: BERTScore F1 = 0.7593
+gpt4omini: BERTScore F1 = 0.7526
+
+Sample 3:
+fine_tuned: BERTScore F1 = 0.8692
+base_model: BERTScore F1 = 0.8511
+gpt4omini: BERTScore F1 = 0.8328
+
+Sample 4:
+fine_tuned: BERTScore F1 = 0.8229
+base_model: BERTScore F1 = 0.8017
+gpt4omini: BERTScore F1 = 0.7393
+
+Sample 5:
+fine_tuned: BERTScore F1 = 0.8356
+base_model: BERTScore F1 = 0.8094
+gpt4omini: BERTScore F1 = 0.7439
+
+Sample 6:
+fine_tuned: BERTScore F1 = 0.7684
+base_model: BERTScore F1 = 0.7659
+gpt4omini: BERTScore F1 = 0.7783
+
+Sample 7:
+fine_tuned: BERTScore F1 = 0.7884
+base_model: BERTScore F1 = 0.8514
+gpt4omini: BERTScore F1 = 0.7857
+
+Sample 8:
+fine_tuned: BERTScore F1 = 0.7995
+base_model: BERTScore F1 = 0.7945
+gpt4omini: BERTScore F1 = 0.7738
+
+Sample 9:
+fine_tuned: BERTScore F1 = 0.9037
+base_model: BERTScore F1 = 0.7705
+gpt4omini: BERTScore F1 = 0.7002
+
+Sample 10:
+fine_tuned: BERTScore F1 = 0.8337
+base_model: BERTScore F1 = 0.8590
+gpt4omini: BERTScore F1 = 0.8319
+
+Sample 11:
+fine_tuned: BERTScore F1 = 0.8632
+base_model: BERTScore F1 = 0.8381
+gpt4omini: BERTScore F1 = 0.7571
+
+Sample 12:
+fine_tuned: BERTScore F1 = 0.9072
+base_model: BERTScore F1 = 0.8211
+gpt4omini: BERTScore F1 = 0.7845
+
+Sample 13:
+fine_tuned: BERTScore F1 = 0.8605
+base_model: BERTScore F1 = 0.8181
+gpt4omini: BERTScore F1 = 0.7755
+
+Sample 14:
+fine_tuned: BERTScore F1 = 0.8092
+base_model: BERTScore F1 = 0.8552
+gpt4omini: BERTScore F1 = 0.8390
+
+Sample 15:
+fine_tuned: BERTScore F1 = 0.8934
+base_model: BERTScore F1 = 0.8154
+gpt4omini: BERTScore F1 = 0.7732
+
+Sample 16:
+fine_tuned: BERTScore F1 = 0.8875
+base_model: BERTScore F1 = 0.8311
+gpt4omini: BERTScore F1 = 0.7601
+
+Sample 17:
+fine_tuned: BERTScore F1 = 0.8527
+base_model: BERTScore F1 = 0.8342
+gpt4omini: BERTScore F1 = 0.8396
+
+Sample 18:
+fine_tuned: BERTScore F1 = 0.8196
+base_model: BERTScore F1 = 0.8019
+gpt4omini: BERTScore F1 = 0.7929
+
+Sample 19:
+fine_tuned: BERTScore F1 = 0.8338
+base_model: BERTScore F1 = 0.8143
+gpt4omini: BERTScore F1 = 0.7632
+
+Sample 20:
+fine_tuned: BERTScore F1 = 0.8326
+base_model: BERTScore F1 = 0.8296
+gpt4omini: BERTScore F1 = 0.8045
+
+Sample 21:
+fine_tuned: BERTScore F1 = 0.7702
+base_model: BERTScore F1 = 0.7503
+gpt4omini: BERTScore F1 = 0.7707
+
+Sample 22:
+fine_tuned: BERTScore F1 = 0.7925
+base_model: BERTScore F1 = 0.8546
+gpt4omini: BERTScore F1 = 0.8025
+
+Sample 23:
+fine_tuned: BERTScore F1 = 0.8211
+base_model: BERTScore F1 = 0.8206
+gpt4omini: BERTScore F1 = 0.7551
+
+Sample 24:
+fine_tuned: BERTScore F1 = 0.7778
+base_model: BERTScore F1 = 0.7778
+gpt4omini: BERTScore F1 = 0.7411
+
+Sample 25:
+fine_tuned: BERTScore F1 = 0.8080
+base_model: BERTScore F1 = 0.8016
+gpt4omini: BERTScore F1 = 0.7732
+
+Sample 26:
+fine_tuned: BERTScore F1 = 0.7859
+base_model: BERTScore F1 = 0.8120
+gpt4omini: BERTScore F1 = 0.7773
+
+Sample 27:
+fine_tuned: BERTScore F1 = 0.8039
+base_model: BERTScore F1 = 0.7812
+gpt4omini: BERTScore F1 = 0.7631
+
+Sample 28:
+fine_tuned: BERTScore F1 = 0.7897
+base_model: BERTScore F1 = 0.7665
+gpt4omini: BERTScore F1 = 0.7734
+
+Sample 29:
+fine_tuned: BERTScore F1 = 0.7859
+base_model: BERTScore F1 = 0.7593
+gpt4omini: BERTScore F1 = 0.7677
+
+Sample 30:
+fine_tuned: BERTScore F1 = 0.8082
+base_model: BERTScore F1 = 0.7979
+gpt4omini: BERTScore F1 = 0.7778
+
+Sample 31:
+fine_tuned: BERTScore F1 = 0.8106
+base_model: BERTScore F1 = 0.7961
+gpt4omini: BERTScore F1 = 0.7450
+
+Sample 32:
+fine_tuned: BERTScore F1 = 0.8362
+base_model: BERTScore F1 = 0.8015
+gpt4omini: BERTScore F1 = 0.7699
+
+Sample 33:
+fine_tuned: BERTScore F1 = 0.7804
+base_model: BERTScore F1 = 0.7489
+gpt4omini: BERTScore F1 = 0.7508
+
+Sample 34:
+fine_tuned: BERTScore F1 = 0.8045
+base_model: BERTScore F1 = 0.8424
+gpt4omini: BERTScore F1 = 0.8046
+
+Sample 35:
+fine_tuned: BERTScore F1 = 0.7795
+base_model: BERTScore F1 = 0.7711
+gpt4omini: BERTScore F1 = 0.7367
+
+Sample 36:
+fine_tuned: BERTScore F1 = 0.8319
+base_model: BERTScore F1 = 0.8262
+gpt4omini: BERTScore F1 = 0.8345
+
+Sample 37:
+fine_tuned: BERTScore F1 = 0.7468
+base_model: BERTScore F1 = 0.7670
+gpt4omini: BERTScore F1 = 0.7575
+
+Sample 38:
+fine_tuned: BERTScore F1 = 0.7708
+base_model: BERTScore F1 = 0.7402
+gpt4omini: BERTScore F1 = 0.7644
+
+Sample 39:
+fine_tuned: BERTScore F1 = 0.7897
+base_model: BERTScore F1 = 0.8033
+gpt4omini: BERTScore F1 = 0.7658
+
+Sample 40:
+fine_tuned: BERTScore F1 = 0.7971
+base_model: BERTScore F1 = 0.7750
+gpt4omini: BERTScore F1 = 0.7812
+
+Sample 41:
+fine_tuned: BERTScore F1 = 0.7714
+base_model: BERTScore F1 = 0.7545
+gpt4omini: BERTScore F1 = 0.7726
+
+Sample 42:
+fine_tuned: BERTScore F1 = 0.7987
+base_model: BERTScore F1 = 0.8364
+gpt4omini: BERTScore F1 = 0.7103
+
+Sample 43:
+fine_tuned: BERTScore F1 = 0.7985
+base_model: BERTScore F1 = 0.7853
+gpt4omini: BERTScore F1 = 0.7742
+
+Sample 44:
+fine_tuned: BERTScore F1 = 0.8034
+base_model: BERTScore F1 = 0.7887
+gpt4omini: BERTScore F1 = 0.7458
+
+Sample 45:
+fine_tuned: BERTScore F1 = 0.8506
+base_model: BERTScore F1 = 0.8027
+gpt4omini: BERTScore F1 = 0.7512
+
+Sample 46:
+fine_tuned: BERTScore F1 = 0.8955
+base_model: BERTScore F1 = 0.8728
+gpt4omini: BERTScore F1 = 0.8058
+
+Sample 47:
+fine_tuned: BERTScore F1 = 0.7833
+base_model: BERTScore F1 = 0.7585
+gpt4omini: BERTScore F1 = 0.7445
+
+Sample 48:
+fine_tuned: BERTScore F1 = 0.7862
+base_model: BERTScore F1 = 0.8272
+gpt4omini: BERTScore F1 = 0.7910
+
+Sample 49:
+fine_tuned: BERTScore F1 = 0.8181
+base_model: BERTScore F1 = 0.8260
+gpt4omini: BERTScore F1 = 0.7735
+
+Sample 50:
+fine_tuned: BERTScore F1 = 0.7770
+base_model: BERTScore F1 = 0.7474
+gpt4omini: BERTScore F1 = 0.7711
+
+Sample 51:
+fine_tuned: BERTScore F1 = 0.7400
+base_model: BERTScore F1 = 0.7725
+gpt4omini: BERTScore F1 = 0.7516
+
+Sample 52:
+fine_tuned: BERTScore F1 = 0.7898
+base_model: BERTScore F1 = 0.7910
+gpt4omini: BERTScore F1 = 0.7492
+
+Sample 53:
+fine_tuned: BERTScore F1 = 0.8360
+base_model: BERTScore F1 = 0.8423
+gpt4omini: BERTScore F1 = 0.8341
+
+Sample 54:
+fine_tuned: BERTScore F1 = 0.7868
+base_model: BERTScore F1 = 0.7834
+gpt4omini: BERTScore F1 = 0.7642
+
+Sample 55:
+fine_tuned: BERTScore F1 = 0.8303
+base_model: BERTScore F1 = 0.7974
+gpt4omini: BERTScore F1 = 0.7614
+
+Sample 56:
+fine_tuned: BERTScore F1 = 0.7881
+base_model: BERTScore F1 = 0.8213
+gpt4omini: BERTScore F1 = 0.7944
+
+Sample 57:
+fine_tuned: BERTScore F1 = 0.7592
+base_model: BERTScore F1 = 0.7765
+gpt4omini: BERTScore F1 = 0.7645
+
+Sample 58:
+fine_tuned: BERTScore F1 = 0.8293
+base_model: BERTScore F1 = 0.7966
+gpt4omini: BERTScore F1 = 0.7723
+
+Sample 59:
+fine_tuned: BERTScore F1 = 0.8162
+base_model: BERTScore F1 = 0.7791
+gpt4omini: BERTScore F1 = 0.8375
+
+Sample 60:
+fine_tuned: BERTScore F1 = 0.8127
+base_model: BERTScore F1 = 0.7929
+gpt4omini: BERTScore F1 = 0.7682
+
+============================================================
+Fine-tuned > Base Model: 42/60 (70.00%)
+Fine-tuned > GPT-4o-mini: 45/60 (75.00%)
+
+Corpus-level BERTScore (F1 average):
+fine_tuned: 0.8114
+base_model: 0.8013
+gpt4omini: 0.7748

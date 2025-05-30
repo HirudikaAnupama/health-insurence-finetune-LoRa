@@ -1,0 +1,313 @@
+Sample 1:
+fine_tuned: BLEU = 0.0159
+base_model: BLEU = 0.0013
+gpt4omini: BLEU = 0.0562
+
+Sample 2:
+fine_tuned: BLEU = 0.0211
+base_model: BLEU = 0.0175
+gpt4omini: BLEU = 0.0140
+
+Sample 3:
+fine_tuned: BLEU = 0.1619
+base_model: BLEU = 0.0518
+gpt4omini: BLEU = 0.0250
+
+Sample 4:
+fine_tuned: BLEU = 0.0171
+base_model: BLEU = 0.0209
+gpt4omini: BLEU = 0.0065
+
+Sample 5:
+fine_tuned: BLEU = 0.0330
+base_model: BLEU = 0.0246
+gpt4omini: BLEU = 0.0131
+
+Sample 6:
+fine_tuned: BLEU = 0.0287
+base_model: BLEU = 0.0183
+gpt4omini: BLEU = 0.0144
+
+Sample 7:
+fine_tuned: BLEU = 0.0365
+base_model: BLEU = 0.0731
+gpt4omini: BLEU = 0.0397
+
+Sample 8:
+fine_tuned: BLEU = 0.0199
+base_model: BLEU = 0.0316
+gpt4omini: BLEU = 0.0143
+
+Sample 9:
+fine_tuned: BLEU = 0.4037
+base_model: BLEU = 0.0123
+gpt4omini: BLEU = 0.0048
+
+Sample 10:
+fine_tuned: BLEU = 0.0362
+base_model: BLEU = 0.1573
+gpt4omini: BLEU = 0.0746
+
+Sample 11:
+fine_tuned: BLEU = 0.0581
+base_model: BLEU = 0.0285
+gpt4omini: BLEU = 0.0063
+
+Sample 12:
+fine_tuned: BLEU = 0.2749
+base_model: BLEU = 0.0307
+gpt4omini: BLEU = 0.0345
+
+Sample 13:
+fine_tuned: BLEU = 0.2770
+base_model: BLEU = 0.0263
+gpt4omini: BLEU = 0.0178
+
+Sample 14:
+fine_tuned: BLEU = 0.0227
+base_model: BLEU = 0.1601
+gpt4omini: BLEU = 0.0709
+
+Sample 15:
+fine_tuned: BLEU = 0.2464
+base_model: BLEU = 0.0278
+gpt4omini: BLEU = 0.0269
+
+Sample 16:
+fine_tuned: BLEU = 0.1982
+base_model: BLEU = 0.0606
+gpt4omini: BLEU = 0.0157
+
+Sample 17:
+fine_tuned: BLEU = 0.0740
+base_model: BLEU = 0.0636
+gpt4omini: BLEU = 0.0561
+
+Sample 18:
+fine_tuned: BLEU = 0.0625
+base_model: BLEU = 0.0261
+gpt4omini: BLEU = 0.0376
+
+Sample 19:
+fine_tuned: BLEU = 0.1756
+base_model: BLEU = 0.0364
+gpt4omini: BLEU = 0.0081
+
+Sample 20:
+fine_tuned: BLEU = 0.0656
+base_model: BLEU = 0.0542
+gpt4omini: BLEU = 0.0248
+
+Sample 21:
+fine_tuned: BLEU = 0.0377
+base_model: BLEU = 0.0098
+gpt4omini: BLEU = 0.0198
+
+Sample 22:
+fine_tuned: BLEU = 0.0276
+base_model: BLEU = 0.1752
+gpt4omini: BLEU = 0.0371
+
+Sample 23:
+fine_tuned: BLEU = 0.0310
+base_model: BLEU = 0.0685
+gpt4omini: BLEU = 0.0113
+
+Sample 24:
+fine_tuned: BLEU = 0.0198
+base_model: BLEU = 0.0204
+gpt4omini: BLEU = 0.0098
+
+Sample 25:
+fine_tuned: BLEU = 0.0216
+base_model: BLEU = 0.0222
+gpt4omini: BLEU = 0.0133
+
+Sample 26:
+fine_tuned: BLEU = 0.0354
+base_model: BLEU = 0.0679
+gpt4omini: BLEU = 0.0139
+
+Sample 27:
+fine_tuned: BLEU = 0.0348
+base_model: BLEU = 0.0177
+gpt4omini: BLEU = 0.0083
+
+Sample 28:
+fine_tuned: BLEU = 0.0045
+base_model: BLEU = 0.0001
+gpt4omini: BLEU = 0.0360
+
+Sample 29:
+fine_tuned: BLEU = 0.0832
+base_model: BLEU = 0.0535
+gpt4omini: BLEU = 0.0422
+
+Sample 30:
+fine_tuned: BLEU = 0.0292
+base_model: BLEU = 0.0468
+gpt4omini: BLEU = 0.0097
+
+Sample 31:
+fine_tuned: BLEU = 0.0364
+base_model: BLEU = 0.0100
+gpt4omini: BLEU = 0.0188
+
+Sample 32:
+fine_tuned: BLEU = 0.0609
+base_model: BLEU = 0.0222
+gpt4omini: BLEU = 0.0254
+
+Sample 33:
+fine_tuned: BLEU = 0.0350
+base_model: BLEU = 0.0117
+gpt4omini: BLEU = 0.0043
+
+Sample 34:
+fine_tuned: BLEU = 0.0469
+base_model: BLEU = 0.0444
+gpt4omini: BLEU = 0.0283
+
+Sample 35:
+fine_tuned: BLEU = 0.0160
+base_model: BLEU = 0.0152
+gpt4omini: BLEU = 0.0069
+
+Sample 36:
+fine_tuned: BLEU = 0.0481
+base_model: BLEU = 0.0408
+gpt4omini: BLEU = 0.0326
+
+Sample 37:
+fine_tuned: BLEU = 0.0000
+base_model: BLEU = 0.0000
+gpt4omini: BLEU = 0.0051
+
+Sample 38:
+fine_tuned: BLEU = 0.0065
+base_model: BLEU = 0.0000
+gpt4omini: BLEU = 0.0159
+
+Sample 39:
+fine_tuned: BLEU = 0.0246
+base_model: BLEU = 0.0056
+gpt4omini: BLEU = 0.0105
+
+Sample 40:
+fine_tuned: BLEU = 0.0141
+base_model: BLEU = 0.0038
+gpt4omini: BLEU = 0.0286
+
+Sample 41:
+fine_tuned: BLEU = 0.0002
+base_model: BLEU = 0.0000
+gpt4omini: BLEU = 0.0064
+
+Sample 42:
+fine_tuned: BLEU = 0.0649
+base_model: BLEU = 0.0958
+gpt4omini: BLEU = 0.0123
+
+Sample 43:
+fine_tuned: BLEU = 0.0387
+base_model: BLEU = 0.0738
+gpt4omini: BLEU = 0.0247
+
+Sample 44:
+fine_tuned: BLEU = 0.0386
+base_model: BLEU = 0.0147
+gpt4omini: BLEU = 0.0203
+
+Sample 45:
+fine_tuned: BLEU = 0.1107
+base_model: BLEU = 0.0242
+gpt4omini: BLEU = 0.0130
+
+Sample 46:
+fine_tuned: BLEU = 0.2301
+base_model: BLEU = 0.1292
+gpt4omini: BLEU = 0.0313
+
+Sample 47:
+fine_tuned: BLEU = 0.0145
+base_model: BLEU = 0.0090
+gpt4omini: BLEU = 0.0118
+
+Sample 48:
+fine_tuned: BLEU = 0.0156
+base_model: BLEU = 0.0225
+gpt4omini: BLEU = 0.0410
+
+Sample 49:
+fine_tuned: BLEU = 0.0600
+base_model: BLEU = 0.0224
+gpt4omini: BLEU = 0.0157
+
+Sample 50:
+fine_tuned: BLEU = 0.0053
+base_model: BLEU = 0.0024
+gpt4omini: BLEU = 0.0192
+
+Sample 51:
+fine_tuned: BLEU = 0.0121
+base_model: BLEU = 0.0102
+gpt4omini: BLEU = 0.0309
+
+Sample 52:
+fine_tuned: BLEU = 0.0307
+base_model: BLEU = 0.0231
+gpt4omini: BLEU = 0.0117
+
+Sample 53:
+fine_tuned: BLEU = 0.0539
+base_model: BLEU = 0.0884
+gpt4omini: BLEU = 0.0593
+
+Sample 54:
+fine_tuned: BLEU = 0.0329
+base_model: BLEU = 0.0212
+gpt4omini: BLEU = 0.0227
+
+Sample 55:
+fine_tuned: BLEU = 0.1318
+base_model: BLEU = 0.0782
+gpt4omini: BLEU = 0.0335
+
+Sample 56:
+fine_tuned: BLEU = 0.0402
+base_model: BLEU = 0.0637
+gpt4omini: BLEU = 0.0386
+
+Sample 57:
+fine_tuned: BLEU = 0.0404
+base_model: BLEU = 0.0097
+gpt4omini: BLEU = 0.0395
+
+Sample 58:
+fine_tuned: BLEU = 0.0589
+base_model: BLEU = 0.0269
+gpt4omini: BLEU = 0.0301
+
+Sample 59:
+fine_tuned: BLEU = 0.0908
+base_model: BLEU = 0.0000
+gpt4omini: BLEU = 0.0791
+
+Sample 60:
+fine_tuned: BLEU = 0.0343
+base_model: BLEU = 0.0269
+gpt4omini: BLEU = 0.0346
+
+============================================================
+Fine-tuned > Base Model (Mistral 7B): 44/60 (73.33%)
+Fine-tuned > GPT-4o-mini: 45/60 (75.00%)
+
+Average Sentence BLEU Scores (0–1):
+fine_tuned: 0.0658
+base_model: 0.0384
+gpt4omini: 0.0252
+
+Corpus BLEU Scores (0–1):
+fine_tuned: 0.0751
+base_model: 0.0288
+gpt4omini: 0.0228

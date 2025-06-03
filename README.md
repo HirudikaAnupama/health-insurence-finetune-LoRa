@@ -1,6 +1,6 @@
 # Mistral 7B - LoRA Merged Fine-Tuned Model
 
-This repository hosts a **merged LoRA fine-tuned version** of [Mistral-7B-v0.1](https://huggingface.co/Hirudika/mistral7b-lora-merged), trained by `Hirudika` for domain-specific tasks such as health insurance Q&A or similar applications. The LoRA weights are **merged** with the base model — no separate adapter is needed.
+This repository hosts a **merged LoRA fine-tuned version** of [Mistral-Health-Insurance](https://huggingface.co/Hirudika/mistral7b-lora-merged), trained for domain-specific tasks such as health insurance Q&A or similar applications. The LoRA weights are **merged** with the base model — no separate adapter is needed.
 
 ---
 

@@ -1,12 +1,21 @@
 # Mistral 7B - LoRA Merged Fine-Tuned Model
 
-This repository contains the **merged** fine-tuned version of the [Mistral-7B](https://huggingface.co/mistralai/Mistral-7B-v0.1) model using **LoRA**. It is fine-tuned for health insurance Q&A tasks (or your specific domain – edit as necessary) and ready for inference without requiring additional adapters.
+This repository hosts a **merged LoRA fine-tuned version** of [Mistral-7B-v0.1](https://huggingface.co/Hirudika/mistral7b-lora-merged), trained by `Hirudika` for domain-specific tasks such as health insurance Q&A or similar applications. The LoRA weights are **merged** with the base model — no separate adapter is needed.
+
+---
+
+## Model Card
+
+- **Base Model**: `mistralai/Mistral-7B-v0.1`
+- **Technique**: LoRA (Low-Rank Adaptation)
+- **Merged**: (can be used as a standalone model)
+- **Intended Use**: Domain-specific chat, Q&A, instruction-following
+
+---
 
 ## Installation
 
-Make sure you have Python 3.8+ and the latest Hugging Face libraries.
-
-### 1. Install dependencies
+First, ensure your environment is set up:
 
 ```bash
-pip install -U transformers accelerate peft bitsandbytes
+pip install -U transformers accelerate bitsandbytes

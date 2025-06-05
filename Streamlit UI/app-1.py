@@ -21,7 +21,7 @@ INSTRUCTION = (
 # Load fine-tuned Mistral model and tokenizer once
 @st.cache_resource
 def load_mistral():
-    model_path = "merged-mistral-7b"  # Change to your model path
+    model_path = "merged-model-new"  # Change to your model path
     tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
     tokenizer.pad_token = tokenizer.eos_token
     model = AutoModelForCausalLM.from_pretrained(
@@ -53,10 +53,10 @@ st.write(df.head())
 
 # Sidebar: Generation Parameters
 st.sidebar.header("Generation Parameters")
-temperature = st.sidebar.slider("Temperature", 0.0, 1.0, 0.5, step=0.01)
-max_tokens = st.sidebar.slider("Max Tokens", 1, 500, 256)
-top_p = st.sidebar.slider("Top-p", 0.0, 1.0, 1.0, step=0.01)
-top_k = st.sidebar.slider("Top-k (only for Mistral)", 0, 100, 0)
+temperature = st.sidebar.slider("Temperature", 0.0, 1.0, 0.7, step=0.01)
+max_tokens = st.sidebar.slider("Max Tokens", 1, 500, 250)
+top_p = st.sidebar.slider("Top-p", 0.0, 1.0, 0.90, step=0.01)
+top_k = st.sidebar.slider("Top-k", 0, 100, 0)
 
 # Sidebar: Model Configuration and Critique
 with st.sidebar:
